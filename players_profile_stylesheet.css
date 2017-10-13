@@ -1,0 +1,152 @@
+*
+{
+	//border: dashed thin;
+}
+
+.backgroundPic
+{
+	background-image: url(../images/stadium3.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.player_images
+{
+	border: solid !important;
+	margin: 0 auto !important;
+	width: 180px !important;
+	background-color: rgba(225,223,0,0.5);
+	text-align: center;
+}
+
+.segment
+{
+	background: none !important; 
+}
+
+.green	
+{
+	background-color: rgba(0,161,0,0.5) !important;
+}
+
+.crest
+{
+	float: left;
+}
+
+.pic_name
+{
+	text-align: center;
+    font-size: 34px; 
+    font-weight: bold;
+
+	position: center;
+    width: 300px;
+	margin: 0 auto;
+}
+
+.table
+{
+	margin: 0 auto !important;
+	background-color: rgb(225,223,0) !important;
+	width: 80% !important;
+}
+
+.head
+{
+	font-size: 20px;
+	font-weight: bolder !important;
+}
+
+.story
+{
+	font-size: 19px;
+}
+
+.golden
+{
+	width: 60%;
+	background-color: rgba(225,223,0,0.5) !important;
+	margin: 0 auto !important;
+}
+
+.list
+{
+	display: inline;
+	text-align: center;
+   	font-size: 30px;
+}
+
+.nav
+{
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: rgba(225,223,0,0.5);
+	text-decoration: none !important;
+	color: inherit;	
+}
+
+ul
+{
+	text-align: center;
+	margin: 0 auto;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+.nav:hover
+{
+	background-color: #00a100;
+	color: black !important;
+}
+
+a
+{
+	text-decoration: none !important;
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+}
+
+.current
+{
+	background-color: #ff5733;
+}
+
+.back
+{
+	margin: 0 auto !important;
+	font-size: 34px;
+	text-decoration: none;
+	color: inherit;
+	background-color: rgba(225,223,0,0.5);
+	border: solid;
+	height: 40px !important;
+}
+
+.button
+{
+	text-align: center !important;
+	width: 450px !important;
+
+}
+
+.back:hover
+{
+	color: black !important;
+	background-color: #00a100;
+}
+
+#footer
+{
+	margin: 0 auto;
+	width: 84%;
+	background-color: rgba(0,161,0,0.5);
+}
+
+.media
+{
+	padding-left: 125px;
+}

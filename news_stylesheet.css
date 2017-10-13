@@ -1,0 +1,129 @@
+*
+{
+	//border: dashed thin;
+}
+
+.crest
+{
+	width: 300px;
+	text-align: left;
+}
+
+.backgroundPic
+{
+    background-image: url(images/stadium3.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.segment
+{
+	background: none !important; 
+}
+
+
+.green
+{
+	background-color: rgba(0,161,0,0.5) !important;
+}
+
+
+	h1.header
+	{
+		text-align: center;
+		color: white !important;
+	}
+
+	h2.header
+	{
+		text-align: center;
+		color: white !important;
+	}
+
+#click
+{
+	width: 29%;
+	color: white;
+	font-weight: lighter;
+	font-size: 15px;
+	text-align: center;
+	padding: 0%;
+	background-color: rgba(255,0,0,0.5);
+}
+
+span:hover+#news_1, span:hover+#news_2, span:hover+#news_3, span:hover+#news_4, span:hover+#news_5, span:hover+#news_6
+{
+	display: table-cell;
+	background-color: rgba(225,223,0,0.5);
+	width: 225px;
+	height: 35px;
+	margin: 0 auto;
+}
+
+#news_1, #news_2, #news_3, #news_4, #news_5, #news_6
+{
+	display: none;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+    vertical-align: middle;
+}
+
+
+.list
+	{
+		display: inline;
+		text-align: center;
+    	font-size: 30px;
+	}
+
+	.nav
+	{
+		padding-left: 40px;
+		padding-right: 40px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background-color: rgba(225,223,0,0.5);
+		text-decoration: none !important;
+		color: inherit;	
+	}
+
+	ul
+	{
+		text-align: center;
+		margin: 0 auto;
+		list-style-type: none;
+		overflow: hidden;
+	}
+
+	.nav:hover
+	{
+		background-color: #00a100;
+		color: black !important;
+	}
+
+	a
+	{
+		text-decoration: none !important;
+		text-align: center;
+		vertical-align: middle;
+		display: table-cell;
+	}
+
+	.current
+	{
+		background-color: #ff5733;
+	}
+
+
+#footer
+{
+	margin: 0 auto;
+	width: 84%;
+	background-color: rgba(0,161,0,0.5);
+}
+
+.media
+{
+	padding-left: 125px;
+}
